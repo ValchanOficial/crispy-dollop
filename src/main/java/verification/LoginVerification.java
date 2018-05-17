@@ -11,6 +11,6 @@ public class LoginVerification {
 		//verificationPoint
 		public void checkLogin() {
 			//verificaçãoComAssertTrue
-			assertTrue(this.driver.getTitle().contains("Dashboard"));
+			assertTrue(this.driver.getPageSource().contains("You are logged in as"));
 		}
 }
