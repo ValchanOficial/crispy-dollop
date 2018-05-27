@@ -2,9 +2,21 @@
 
 Projeto Trilha Automação de Teste de Software - Students To Business 2018/1 - PUCRS.
 
- - Christiano Stráéhl de Vasconcelos
-  - Valéria Padilha de Vargas
+-   Christiano Stráéhl de Vasconcelos
+-   Valéria Padilha de Vargas
 
-IDE: Eclipse com Maven e Selenium WebDriver
+IDE: Eclipse
 
-Site Testado: Moodle 3.5 testing(Moodle QA Testing Site) - https://qa.moodle.net/
+Site Testado: Moodle QA Testing Site - [https://qa.moodle.net/](https://qa.moodle.net/)
+
+Conceitos de automação, tais como:
+
+-   TestSuites
+-   TestCases
+-   Tasks
+-   AppObjects
+-   Framework
+-   Reports
+-   Datapools
+-   Dataprovider
+-   Categories
