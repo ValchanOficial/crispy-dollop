@@ -3,8 +3,11 @@ package testcase;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.experimental.categories.Category;
 import org.openqa.selenium.WebDriver;
 import com.aventstack.extentreports.Status;
+
+import categorias.Positivos;
 import framework.drivers;
 import framework.report;
 import framework.screenshot;
@@ -25,6 +28,7 @@ public class loginTestCase {
 		verificacaoPoint = new verificacaoLoginPoint(driver);
 	}
 	@Test
+	@Category(Positivos.class)//positivos
 	public void testMain() {
 		driver.get("https://qa.moodle.net/");
 		driver.manage().window().maximize();
