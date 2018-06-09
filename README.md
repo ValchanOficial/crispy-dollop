@@ -1,4 +1,5 @@
-﻿# S2B - 2018/1 - Projeto Automação de Teste de Software
+﻿
+# [](https://github.com/ValchanOficial/crispy-dollop#s2b---20181---projeto-automação-de-teste-de-software)S2B - 2018/1 - Projeto Automação de Teste de Software
 
 Projeto Trilha Automação de Teste de Software - Students To Business 2018/1 - PUCRS.
 
@@ -16,7 +17,8 @@ Conceitos de automação, tais como:
 -   Tasks
 -   AppObjects
 -   Framework
--   Reports
+-   Reports(ExtentReports)
 -   Datapools
 -   Dataprovider
 -   Categories
+-   Parametrização(JUnitParams)
