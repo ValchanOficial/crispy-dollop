@@ -1,14 +1,6 @@
-manager,test,You are logged in as
-teacher,test,You are logged in as
-student,test,You are logged in as
-dpo,test,You are logged in as
-parent,test,You are logged in as
-student2,test,You are logged in as
 student3,test,You are logged in as
-student4,test,You are logged in as
+student4,FALHA INTENCIONAL,You are logged in as
 student5,test,You are logged in as
-student6,test,You are logged in as
+FALHA INTENCIONAL,test,You are logged in as
 student7,test,You are logged in as
 student8,test,You are logged in as
-student9,test,You are logged in as
-student10,test,You are logged in as
