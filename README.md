@@ -3,9 +3,6 @@
 
 Projeto Trilha Automação de Teste de Software - Students To Business 2018/1 - PUCRS.
 
--   Christiano Stráéhl de Vasconcelos
--   Valéria Padilha de Vargas
-
 IDE: Eclipse
 
 Site Testado: Moodle QA Testing Site - [https://qa.moodle.net/](https://qa.moodle.net/)
